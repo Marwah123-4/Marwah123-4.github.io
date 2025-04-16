@@ -1,9 +1,9 @@
 ## Peter G.
 
-<img src="SiteFiles/Peter_Griffin.png" align="left" width=150>&nbsp; Safety Inspector<br/>
-&nbsp; Pawtucket Brewery <br/>
-&nbsp; &nbsp; email: peter.griffin@spooner.com<br/>
-&nbsp; &nbsp; [Resume](https://agmath.github.io/PagesBasic/SiteFiles/Resume/peter_resume.html)
+<img src="SiteFiles/marwah pic.jpg" align="left" width=150>&nbsp; Biology major<br/>
+&nbsp; Southern New Hampshire University <br/>
+&nbsp; &nbsp; email: marwahalthuwayni@gmail.com<br/>
+&nbsp; &nbsp; [Resume](https://Marwah123-4.github.io/PagesBasic/SiteFiles/Resume/peter_resume.html)
 
 <br/>
 <br/>
