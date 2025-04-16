@@ -1,4 +1,4 @@
-## Peter G.
+## Marwah Al Thuwayni.
 
 <img src="SiteFiles/marwah pic.jpg" align="left" width=150>&nbsp; Biology major<br/>
 &nbsp; Southern New Hampshire University <br/>
@@ -9,11 +9,19 @@
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
 
-### Welcome
+### About me
+My name is Marwah Al Thuwayni and I am currently a senior at Southern New Hampshire University, where I am pursuing a bachelor's degree in biology. My ultimate goal is to pursue a career in surgery by attending medical or dental school. At SNHU, I worked as an Office Assistant in Academic Affairs at Southern New Hampshire University. It involves the handling of confidential files and reports, necessitating that I possess exceptional attention to detail. I have the opportunity to exercise good judgment while providing exceptional customer service by analyzing and solving problems presented by a diverse population of students, faculty, and staff. I also work as a student catalyst in Undergraduate Research where I work with the faculty member and other student to help organize, and prepare for the Undergraduate Research Day.
 
-Welcome to my page – a man of many talents, few inhibitions, and a boundless sense of humor! From crafting toys at the Happy-Go-Lucky Toy Factory to ensuring the quality of Quahog’s favorite brews at Pawtucket Brewery, I’ve built a career out of hard work, good laughs, and the occasional chicken fight. When I’m not on the job, you can find me spending time with my family, hosting impromptu karaoke nights, or dreaming up my next big idea. Grab a snack and stay a while – you never know what adventures we might embark on together!
-
-### Sample Work Products
-
-I'm available for safety-related consulting work in the manufacturing and production fields. Check out [one of my recent safety reports](https://agmath.github.io/PagesBasic/SiteFiles/SampleSafetyReport.html) from an incident at Pawtucket Brewery as an example of what I can do for you!
+### Projects in BioInformatics and BioStatistics
+#### Palmer Penguins
+Using R code, we learned to analyze and manipulate the penguins dataset. We used ggplot to create and visulaize the data using bar graphs and scatterplots. These graphs were also used to compare between two or more categorical and numerical datas. 
+#### Dog Breeds
+From the dog data set, we chose top 10 popular hunting and comapnion dogs to compare if hunting dogs can be as friendly as companion dogs. Using ggplot to visualize data using scatterplot, we came into conclusion that hunting dogs could be friendlier and trained as companion dogs except for exception like Shiba Inu and Bloodhounds.   
+#### RNA Sequencing
+RNA Seq I: Using the edgeR, we analyzed the RNA-seq data from the R Bioinformatics Cookbook called modencodefly which contains the data on _Drosophila melanogaster_.
+RNA Seq II: Using dataset at_tf_gex, we created the heatmap of the ecotype and plant parts and see how gene is expressed differetly in two or more different samples. 
+Phylogetic analysis and visualization: Creating the evolutionary tree from mammal phylogeny from dataset. 
