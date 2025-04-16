@@ -3,7 +3,7 @@
 <img src="SiteFiles/marwah pic.jpg" align="left" width=150>&nbsp; Biology major<br/>
 &nbsp; Southern New Hampshire University <br/>
 &nbsp; &nbsp; email: marwahalthuwayni@gmail.com<br/>
-&nbsp; &nbsp; [Resume](https://Marwah123-4.github.io/PagesBasic/SiteFiles/Resume/peter_resume.html)
+&nbsp; &nbsp; [Resume](<https://Marwah123-4.github.io/PagesBasic/SiteFiles/Resume/Resume-Marwah Al Thuwayni(2).pdf>)
 
 <br/>
 <br/>
