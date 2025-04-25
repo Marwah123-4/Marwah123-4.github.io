@@ -18,10 +18,12 @@ My name is Marwah Al Thuwayni and I am currently a senior at Southern New Hampsh
 
 ### Projects in BioInformatics and BioStatistics
 #### Palmer Penguins
-Using R code, we learned to analyze and manipulate the penguins dataset. We used ggplot to create and visulaize the data using bar graphs and scatterplots. These graphs were also used to compare between two or more categorical and numerical datas. 
+Using R code, we learned to analyze and manipulate the penguins dataset. We used ggplot to create and visulaize the data using bar graphs and scatterplots. These graphs were also used to compare between two or more categorical and numerical datas.[here](https://Marwah123-4.github.io/Bio422/PalmerPenguins_MT.html) 
 #### Dog Breeds
-From the dog data set, we chose top 10 popular hunting and comapnion dogs to compare if hunting dogs can be as friendly as companion dogs. Using ggplot to visualize data using scatterplot, we came into conclusion that hunting dogs could be friendlier and trained as companion dogs except for exception like Shiba Inu and Bloodhounds.   
+From the dog data set, we chose top 10 popular hunting and comapnion dogs to compare if hunting dogs can be as friendly as companion dogs. Using ggplot to visualize data using scatterplot, we came into conclusion that hunting dogs could be friendlier and trained as companion dogs except for exception like Shiba Inu and Bloodhounds.[here](https://Marwah123-4.github.io/Bio422/dog_breed.html)   
 #### RNA Sequencing
-RNA Seq I: Using the edgeR, we analyzed the RNA-seq data from the R Bioinformatics Cookbook called modencodefly which contains the data on _Drosophila melanogaster_.
-RNA Seq II: Using dataset at_tf_gex, we created the heatmap of the ecotype and plant parts and see how gene is expressed differetly in two or more different samples. 
+RNA Seq I: Using the edgeR, we analyzed the RNA-seq data from the R Bioinformatics Cookbook called modencodefly which contains the data on _Drosophila melanogaster_.[here](<https://Marwah123-4.github.io/BioInformatics/RNA seq- Part I.html>)   
+RNA Seq II: Using dataset at_tf_gex, we created the heatmap of the ecotype and plant parts and see how gene is expressed differetly in two or more different samples. [here](<https://Marwah123-4.github.io/BioInformatics/RNA Seq II.html>)   
+Phylogetic analysis and visualization: Creating the evolutionary tree from mammal phylogeny from dataset. [here](<https://Marwah123-4.github.io/BioInformatics/HW-9.html>)   
+
 Phylogetic analysis and visualization: Creating the evolutionary tree from mammal phylogeny from dataset. 
