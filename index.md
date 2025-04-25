@@ -26,4 +26,4 @@ RNA Seq I: Using the edgeR, we analyzed the RNA-seq data from the R Bioinformati
 RNA Seq II: Using dataset at_tf_gex, we created the heatmap of the ecotype and plant parts and see how gene is expressed differetly in two or more different samples. [here](<https://Marwah123-4.github.io/BioInformatics/RNA Seq II.html>)   
 Phylogetic analysis and visualization: Creating the evolutionary tree from mammal phylogeny from dataset. [here](<https://Marwah123-4.github.io/BioInformatics/HW-9.html>)   
 
-Phylogetic analysis and visualization: Creating the evolutionary tree from mammal phylogeny from dataset. 
+
